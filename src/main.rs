@@ -21,6 +21,7 @@ struct Args {
 
     #[arg(short = 'o', long = "output-file-path")]
     output_file_path: String,
+    
 }
 
 struct Employee {
